@@ -1,1 +1,2 @@
 # chat_bot
+For the chatbot project, I used Python to create a basic conversational agent. I applied string manipulation with `lower()` to handle case-insensitive input and used `if-elif-else` statements for conditional responses. The `respond_to_query` function processed user input, while a `while` loop in the `chatbot` function maintained the interaction until "bye" was typed. This project enhanced my skills in string handling and control flow in Python.
